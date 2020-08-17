@@ -2,11 +2,8 @@
 <p align="center" style="font-style: italic;">"Just a simple man who love coding and sports."</p>
 
 - 🌱 I’m currently learning **Software Engineering Role (Backend and Frontend).**
-
 - 💬 Ask me about **How to be a simple man.**
-
 - 📫 How to reach me **agusdwisasongko1@gmail.com**
-
 - ⚡ Fun fact **I've graduate as Geophysical Engineer; Love freedom, Real Madrid, and You :kissing_heart:.**
 
 <br/>
@@ -126,3 +123,6 @@ _***Currently(and future) Learning:***_
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agsdws" height="30" width="30" />
   </a>
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
