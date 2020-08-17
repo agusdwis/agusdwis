@@ -16,15 +16,22 @@ _***Currently(and future) Learning:***_
   <tr>
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
-        <div style="margin: 10px 5px;">
-          <p>Programming Language</p>
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Programming Language</p>
         </div>
       </div>
     </td>
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
-        <div style="margin: 10px 5px;">
-          <p>Frontend Development</p>
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Frontend Development</p>
+        </div>
+      </div>
+    </td>
+    <td class="border_l border_r border_t border_b selected">
+      <div class="wrap">
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Backend Development</p>
         </div>
       </div>
     </td>
@@ -53,6 +60,17 @@ _***Currently(and future) Learning:***_
           <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
           <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+        </p>
+      </div>
+    </div>
+  </td>
+   <td class="border_l border_r border_t border_b selected">
+    <div class="wrap">
+      <div style="margin: 10px 5px;">
+        <p align="center">
+          <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+          <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </p>
       </div>
     </div>
