@@ -110,6 +110,8 @@ _***Currently(and future) Learning:***_
   </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <a href="https://twitter.com/agusdwis17" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="agusdwis17" height="30" width="30" />
