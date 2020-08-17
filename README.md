@@ -101,9 +101,8 @@ _***Currently(and future) Learning:***_
   </tr>
 </table>
 
-<br/>
-![Agus's github stats](https://github-readme-stats.vercel.app/api?username=agusdwis&show_icons=true&theme=radical)
-<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <p align="center">
   <a href="https://twitter.com/agusdwis17" target="blank">
