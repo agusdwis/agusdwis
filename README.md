@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Agus D. Sasongko</h1>
-<p align="center" style="font-style: italic;">"Just a simple man who love coding and sports."</p>
+<p align="center" style="font-style: italic;">"Just a simple man who is starting to love coding."</p>
 
 - 🌱 I’m currently learning **Software Engineering Role (Backend and Frontend).**
 - 💬 Ask me about **How to be a simple man.**
