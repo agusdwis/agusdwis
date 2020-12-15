@@ -18,6 +18,25 @@ _***Currently(and future) Learning:***_
         </div>
       </div>
     </td>
+  </tr>
+  
+  <tr>
+  <td class="border_l border_r border_t border_b selected">
+    <div class="wrap">
+      <div style="margin: 10px 5px;">
+        <p align="left">
+          <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+          <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+          <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+        </p>
+      </div>
+    </div>
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
         <div style="margin: 10px 5px, font-weight: bold;">
@@ -35,17 +54,6 @@ _***Currently(and future) Learning:***_
   </tr>
   
   <tr>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
   <td class="border_l border_r border_t border_b selected">
     <div class="wrap">
       <div style="margin: 10px 5px;">
