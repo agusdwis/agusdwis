@@ -18,6 +18,13 @@ _***Currently(and future) Learning:***_
         </div>
       </div>
     </td>
+    <td class="border_l border_r border_t border_b selected">
+      <div class="wrap">
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Mobile Apps Develpoment</p>
+        </div>
+      </div>
+    </td>
   </tr>
   
   <tr>
@@ -28,6 +35,16 @@ _***Currently(and future) Learning:***_
           <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
           <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
           <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+        </p>
+      </div>
+    </div>
+  </td>
+    <td class="border_l border_r border_t border_b selected">
+    <div class="wrap">
+      <div style="margin: 10px 5px;">
+        <p align="left">
+          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+          <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
         </p>
       </div>
     </div>
@@ -94,13 +111,6 @@ _***Currently(and future) Learning:***_
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
         <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Mobile Apps Develpoment</p>
-        </div>
-      </div>
-    </td>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
           <p align="center">Tools/Frameworks</p>
         </div>
       </div>
@@ -108,16 +118,6 @@ _***Currently(and future) Learning:***_
   </tr>
   
   <tr>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
   <td class="border_l border_r border_t border_b selected">
     <div class="wrap">
       <div style="margin: 10px 5px;">
