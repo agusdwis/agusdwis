@@ -88,6 +88,7 @@ _***Currently(and future) Learning:***_
           <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
           <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
+          <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
         </p>
       </div>
     </div>
