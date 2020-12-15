@@ -32,20 +32,6 @@ _***Currently(and future) Learning:***_
         </div>
       </div>
     </td>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Mobile Apps Develpoment</p>
-        </div>
-      </div>
-    </td>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Tools/Frameworks</p>
-        </div>
-      </div>
-    </td>
   </tr>
   
   <tr>
@@ -92,6 +78,28 @@ _***Currently(and future) Learning:***_
       </div>
     </div>
   </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td class="border_l border_r border_t border_b selected">
+      <div class="wrap">
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Mobile Apps Develpoment</p>
+        </div>
+      </div>
+    </td>
+    <td class="border_l border_r border_t border_b selected">
+      <div class="wrap">
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Tools/Frameworks</p>
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
   <td class="border_l border_r border_t border_b selected">
     <div class="wrap">
       <div style="margin: 10px 5px;">
