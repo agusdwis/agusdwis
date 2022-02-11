@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Agus D. Sasongko</h1>
 <p align="center" style="font-style: italic;">"Just a simple man who is starting to love coding."</p>
 
-- 🌱 I’m a **Software Engineer.**
+- 🌱 I’m a **Software Engineer** at [**Stockbit**](https://stockbit.com/).
 - 💬 Ask me about **How to be a simple man.**
-- 📫 How to reach me **agusdwisasongko1@gmail.com** or **agusdwis.dev@gmail.com**
+- 📫 How to reach me **agusdwisasongko1@gmail.com** or **agusdwis.dev@gmail.com** or **agus.sasongko@stockbit.com**
 - ⚡ Fun fact **I've graduate as Geophysical Engineer; Love freedom, Real Madrid, and You :kissing_heart:.**
 
 <br/>
