@@ -3,7 +3,7 @@
 
 - 🌱 I’m a **Software Engineer** at [**Stockbit**](https://stockbit.com/).
 - 💬 Ask me about **How to be a simple man.**
-- 📫 How to reach me **agusdwisasongko1@gmail.com** or **agusdwis.dev@gmail.com** or **agus.sasongko@stockbit.com**
+- 📫 How to reach me, mail to **agusdwis.dev@gmail.com** or **agus.sasongko@stockbit.com**
 - ⚡ Fun fact **I've graduate as Geophysical Engineer; Love freedom, Real Madrid, and You :kissing_heart:.**
 
 <br/>
